@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm not human.
 -->
 ### Stats
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=azaelgg&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azaelgg&theme=dracula&show_icons=true)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=directx-cs&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=directx-cs&theme=dracula&show_icons=true)
