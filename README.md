@@ -1,9 +1,3 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on PartyFarter discord bot
-- 🌱 I’m currently learning meditation 😂
-- 💬 Ask me about bug bounty hacking, programming.
-- ⚡ Fun fact: I'm not human.
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwir-prota)](https://github.com/Imperator-Krypto/github-readme-stats)
+![Anwir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperator-Krypto&show_icons=true)
