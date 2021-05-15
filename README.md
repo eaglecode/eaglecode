@@ -1,3 +1,17 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperator-Krypto)](https://github.com/Imperator-Krypto/github-readme-stats)
-![Krypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperator-Krypto&show_icons=true)
+### Hey there! 👋
+
+─────────────────────────────────────
+
+```bash
+echo "Welcome to my profile!"
+
+krypto-macintosh :: ~ » figlet -c Krpyto
+                         _  __                 _        
+                        | |/ /_ __ _ __  _   _| |_ ___  
+                        | ' /| '__| '_ \| | | | __/ _ \ 
+                        | . \| |  | |_) | |_| | || (_) |
+                        |_|\_\_|  | .__/ \__, |\__\___/ 
+                                  |_|    |___/          
+
+```
+─────────────────────────────────────
