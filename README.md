@@ -17,7 +17,7 @@ main :: func(): void {
   krypto :: aboutMe = {
     gender: "Male",
     languages: ["C", "C#", "C++","Java", "Python", "Ruby", "PHP", "JavaScript", "Node.JS"],
-    hobbies: ["Coding", "Gaming", "Chating"],
+    hobbies: ["Coding", "Gaming", "Chatting"],
     funFact: "I started learning programming when i was 7 y.o!"
   };
 
