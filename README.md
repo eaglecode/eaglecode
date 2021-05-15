@@ -81,8 +81,7 @@ main :: func(): void {
       </td>
       <td width="25%" align="center">
         <span>Vim</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vim-iconz
-.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/vim-icon.svg">
       </td>
     </tr>
   </tbody>
