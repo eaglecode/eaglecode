@@ -39,7 +39,7 @@ main :: func(): void {
       </td>
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c++.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/C++.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
