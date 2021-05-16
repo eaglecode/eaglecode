@@ -1,6 +1,6 @@
 # Hello, I'm Krypto!
 
-- 𝗜 𝗮𝗺 𝗮 Bug bounty hunter & Software enginner
+- 𝗜 𝗮𝗺 𝗮 **Bug bounty hunter & Software enginner**
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
 ```julia
@@ -54,19 +54,19 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>Ruby</span><br><br><br>
+        <span>**Ruby**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
       </td>
       <td width="25%" align="center">
-        <span>PHP</span><br><br><br>
+        <span>**PHP**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
+        <span>**JavaScript**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Go</span><br><br><br>
+        <span>**Go**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
       </td>
     </tr>
