@@ -87,6 +87,10 @@ main :: func(): void {
         <span>Vim</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Emacs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/emacs.svg">
+      </td>
     </tr>
   </tbody>
 </table>
