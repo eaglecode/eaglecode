@@ -7,7 +7,7 @@
 module main
 
 aboutMe :: struct {
-  pronouns :: string[];
+  gender:: string[];
   languages :: string[];
   hobbies :: string[];
   funFact :: string;
@@ -21,7 +21,7 @@ main :: func(): void {
     funFact: "I started learning programming when i was 7 y.o!"
   };
 
-  println "Pronouns: ${krypto.pronouns}";
+  println "Gender: ${krypto.gender}";
   println "Languages I Know: ${krypto.languages}";
   println "My Hobbies: ${krypto.hobbies}";
   println "Fun Fact: ${krypto.funFact}";
