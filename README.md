@@ -1,6 +1,6 @@
 # Hello, I'm Krypto!
 
-- 𝗜 𝗮𝗺 𝗮 **Bug bounty hunter & Software enginner**
+- 𝗜 𝗮𝗺 𝗮 **Bug bounty hunter & Software enginner & Malware Developer**
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
 ```julia
