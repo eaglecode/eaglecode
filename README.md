@@ -1,4 +1,4 @@
-# Hello, I'm Krypto!
+# Hello, I'm batman!
 
 - 𝗜 𝗮𝗺 𝗮 **Bug bounty hunter & Software enginner & Malware Developer**
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
@@ -14,17 +14,17 @@ aboutMe :: struct {
 }
 
 main :: func(): void {
-  krypto :: aboutMe = {
+  batman :: aboutMe = {
     gender: "Male",
     languages: ["C", "C#", "C++","Java", "Python", "Ruby", "PHP", "JavaScript", "Node.JS"],
     hobbies: ["Coding", "Gaming", "Chatting"],
     funFact: "I started learning programming when i was 7 y.o!"
   };
 
-  println "Gender: ${krypto.gender}";
-  println "Languages I Know: ${krypto.languages}";
-  println "My Hobbies: ${krypto.hobbies}";
-  println "Fun Fact: ${krypto.funFact}";
+  println "Gender: ${batman.gender}";
+  println "Languages I Know: ${batman.languages}";
+  println "My Hobbies: ${batman.hobbies}";
+  println "Fun Fact: ${batman.funFact}";
 }
 ```
 
