@@ -103,6 +103,6 @@ main :: func(): void {
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aquiso&show_icons=true&hide_border=true)
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aquiso
 ## Show ❤️ By Starring My Repos!
 ---
