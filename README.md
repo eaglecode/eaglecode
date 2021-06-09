@@ -1,4 +1,4 @@
-# Hello, I'm batman!
+# Hello, I'm Aquiso!
 
 - 𝗜 𝗮𝗺 𝗮 **Bug bounty hunter & Software enginner & Malware Developer**
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
@@ -102,7 +102,7 @@ main :: func(): void {
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Imperator-Krypto&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=aquiso&show_icons=true&hide_border=true)
 
 ## Show ❤️ By Starring My Repos!
 ---
