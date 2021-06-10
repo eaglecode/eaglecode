@@ -2,7 +2,7 @@
 
 - 𝗜 𝗮𝗺 𝗮 **Bug bounty hunter & Software enginner & Malware Developer**
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
-
+<a href="https://github.com/aquiso" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 ```julia
 module main
 
