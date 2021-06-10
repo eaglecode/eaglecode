@@ -14,17 +14,17 @@ aboutMe :: struct {
 }
 
 main :: func(): void {
-  batman :: aboutMe = {
+  aquiso :: aboutMe = {
     gender: "Male",
     languages: ["C", "C#", "C++","Java", "Python", "Ruby", "PHP", "JavaScript", "Node.JS"],
     hobbies: ["Coding", "Gaming", "Chatting"],
     funFact: "I started learning programming when i was 7 y.o!"
   };
 
-  println "Gender: ${batman.gender}";
-  println "Languages I Know: ${batman.languages}";
-  println "My Hobbies: ${batman.hobbies}";
-  println "Fun Fact: ${batman.funFact}";
+  println "Gender: ${aquiso.gender}";
+  println "Languages I Know: ${aquiso.languages}";
+  println "My Hobbies: ${aquiso.hobbies}";
+  println "Fun Fact: ${aquiso.funFact}";
 }
 ```
 
