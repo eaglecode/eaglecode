@@ -10,6 +10,7 @@ aboutMe :: struct {
   languages :: string[];
   hobbies :: string[];
   funFact :: string;
+  workingon :: string[];
 }
 
 main :: func(): void {
@@ -18,12 +19,14 @@ main :: func(): void {
     languages: ["C", "C#", "C++","Java", "Python", "Ruby", "PHP", "JavaScript", "Node.JS"],
     hobbies: ["Coding", "Gaming", "Chatting"],
     funFact: "I started learning programming when i was 7 y.o!"
+    workingon: ["Shrab", "Dridex"]
   };
 
   println "Gender: ${aquiso.gender}";
   println "Languages I Know: ${aquiso.languages}";
   println "My Hobbies: ${aquiso.hobbies}";
   println "Fun Fact: ${aquiso.funFact}";
+  println "Working on: ${aquiso.workingon}";
 }
 ```
 
