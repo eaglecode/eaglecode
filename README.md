@@ -1,8 +1,8 @@
 # Hello, I'm Aquiso!
 <a href="https://github.com/aquiso" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@aquiso-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 - 𝗜 𝗮𝗺 𝗮 **Bug bounty hunter & Software enginner & Malware Developer**
-- 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
-```julia
+- Here is my Jabber in case you want to make business: **388888@jabber.ru**
+```c
 module main
 
 aboutMe :: struct {
