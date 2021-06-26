@@ -101,6 +101,6 @@ main :: func(): void {
 Nothing!
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=aquiso&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=aquiso&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
 ## Show ❤️ By Starring My Repos!
 ---
