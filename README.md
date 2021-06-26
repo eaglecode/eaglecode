@@ -1,7 +1,12 @@
 # Hello, I'm Aquiso!
 <a href="https://github.com/aquiso" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@aquiso-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-- 𝗜 𝗮𝗺 𝗮 **Bug bounty hunter & Software enginner & Malware Developer**
-- Here is my Jabber in case you want to make a business: **388888@jabber.ru**
+**ℹ️ Hey there my nickname is Aquiso. I love hacking, reserve engineering, operational security and coding.**
+- 🔗 **You can reach me in**
+- Jabber: **388888@jabber.ru**
+- Discord: **mаster#0001**
+- 🔗 **Links**:
+- https://discord.gg/EuMEqVGZV6  - **Terminal Lounge ( discord server) **
+- https://discord.gg/DzTS5ABTfm  - **Kali Hacking Community ( discord server)**
 ```c
 module main
 
