@@ -5,7 +5,7 @@
 - Jabber: **388888@jabber.ru**
 - Discord: **mаster#0001**
 - 🔗 **Links**:
-- https://discord.gg/EuMEqVGZV6  - **Terminal Lounge ( discord server) **
+- https://discord.gg/EuMEqVGZV6  - **Terminal Lounge ( discord server)**
 - https://discord.gg/DzTS5ABTfm  - **Kali Hacking Community ( discord server)**
 ```c
 module main
