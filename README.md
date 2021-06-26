@@ -98,10 +98,7 @@ main :: func(): void {
 </table>
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- 💻 Shrab w/ RB ( The Rat Band )
-- 💻 WFM
-
+Nothing!
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aquiso&show_icons=true&hide_border=true)
