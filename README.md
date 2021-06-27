@@ -1,6 +1,7 @@
 # Hello, I'm Aquiso!
 <a href="https://github.com/aquiso" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@aquiso-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-**ℹ️ Hey there my nickname is Aquiso. I love hacking, reserve engineering, operational security and coding.**
+**en: Hey there my nickname is Aquiso. I love hacking, reserve engineering, operational security and coding.**
+**ru: Привет мой ник Аква. Я Люблю взлом, резервное проектирование, операционную безопасность и кодирование.**
 - 🔗 **You can reach me in**
 - Jabber: **388888@jabber.ru**
 - Discord: **mаster#0001**
