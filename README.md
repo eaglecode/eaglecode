@@ -24,7 +24,7 @@ main :: func(): void {
     languages: ["C", "C#", "C++","Java", "Python", "Ruby", "PHP", "JavaScript", "Node.JS"],
     hobbies: ["Coding", "Gaming", "Chatting"],
     funFact: "I started learning programming when i was 7 y.o!"
-    workingon: ["Shrab", "WFM"]
+    //workingon: ["Shrab", "WFM"]
   };
 
   println "Gender: ${aquiso.gender}";
