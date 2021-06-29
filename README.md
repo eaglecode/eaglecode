@@ -2,6 +2,7 @@
 <a href="https://github.com/aquiso" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@aquiso-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 **en: Hey there my nickname is Aquiso. I love hacking, reserve engineering, operational security and coding.**
 **ru: Привет мой ник Аква. Я Люблю взлом, резервное проектирование, операционную безопасность и кодирование.**
+<img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
 - 🔗 **You can reach me in**
 - Jabber: **388888@jabber.ru**
 - Discord: **mаster#0001**
