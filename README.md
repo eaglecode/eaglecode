@@ -9,8 +9,6 @@ Hey there my nickname is Aquiso. I love hacking, reserve engineering, operationa
 - 🔗 **Links**:
 - https://discord.gg/EuMEqVGZV6  - **Terminal Lounge ( discord server)**
 - https://discord.gg/DzTS5ABTfm  - **Kali Hacking Community ( discord server)**
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aquiso&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=0000FF&title_color=fff&text_color=fff)
 ## Show ❤️ By Starring My Repos!
----
