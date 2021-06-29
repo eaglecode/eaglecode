@@ -1,4 +1,4 @@
-# Hello, I'm Aquiso!
+<align=center># Hello, I'm Aquiso!
 <a href="https://github.com/aquiso" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@aquiso-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 Hey there my nickname is Aquiso. I love hacking, reserve engineering, operational security and coding.
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
