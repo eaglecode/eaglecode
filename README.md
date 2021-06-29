@@ -6,8 +6,6 @@ Hey there my nickname is Aquiso. I love hacking, reserve engineering, operationa
 - Jabber: **388888@jabber.ru**
 - Discord: **mаster#0001**
 - 🔗 **Links**:
-- https://discord.gg/EuMEqVGZV6  - **Terminal Lounge ( discord server)**
-- https://discord.gg/DzTS5ABTfm  - **Kali Hacking Community ( discord server)**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aquiso&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=0000FF&title_color=fff&text_color=fff)
 ## Show ❤️ By Starring My Repos!
