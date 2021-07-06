@@ -10,7 +10,7 @@ Hey there my nickname is Aquiso. I love hacking, reserve engineering, operationa
 #include  <stdio.h>
 #include  <string.h>
 
-#define    MAX_CHARS 300
+#define   MAX_CHARS 300
 
 struct person {
   char nickname       [MAX_CHARS];
