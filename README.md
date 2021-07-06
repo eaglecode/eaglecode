@@ -13,12 +13,12 @@ Hey there my nickname is Aquiso. I love hacking, reserve engineering, operationa
 #define    MAX_CHARS 300
 
 struct person {
-  char nickname[MAX_CHARS];
-  char hobby[MAX_CHARS];
-  char nationality[MAX_CHARS];
+  char nickname       [MAX_CHARS];
+  char hobby          [MAX_CHARS];
+  char nationality    [MAX_CHARS];
   // contact
-  char jabber[MAX_CHARS];
-  char discord[MAX_CHARS]; 
+  char jabber         [MAX_CHARS];
+  char discord        [MAX_CHARS]; 
 };
 
 int main(void) {
